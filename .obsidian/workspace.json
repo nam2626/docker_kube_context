@@ -11,10 +11,14 @@
             "id": "9ba15fc76c1f4504",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "도커 이미지와 컨테이너 관리 - 나만의 이미지 만들기.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "도커 이미지와 컨테이너 관리 - 나만의 이미지 만들기"
             }
           }
         ]
@@ -165,12 +169,15 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "046c20fb55590c9b",
+  "active": "9ba15fc76c1f4504",
   "lastOpenFiles": [
+    "Pasted image 20250829114407.png",
+    "docker/nginx/nginx.conf",
+    "도커(Docker) 시작하기 - 컨테이너 기초.md",
+    "img/step02/Pasted image 20250828172212.png",
     "docker/java/docker-ex-web/build/resources/test",
     "도커 이미지와 컨테이너 관리 - 나만의 이미지 만들기.md",
     "img/step02/Pasted image 20250828172241.png",
-    "img/step02/Pasted image 20250828172212.png",
     "docker/python_flask/requirements.txt",
     "docker/python_flask/Dockerfile",
     "docker/python_flask/templates/index.html",
@@ -179,15 +186,12 @@
     "docker/python_flask/app.py",
     "docker/python_flask",
     "docker/java/docker-ex-web/src/test/java/com/docker/DockerExWebApplicationTests.java",
-    "docker/java/docker-ex-web/src/test/java/com/docker",
-    "docker/java/docker-ex-web/src/test/java/com",
     "docker/java/docker-ex-web/HELP.md",
     "img/step02/Pasted image 20250827151403.png",
     "img/step02/Pasted image 20250827160406.png",
     "img/step02/Pasted image 20250827160243.png",
     "img/step02/Pasted image 20250827151433.png",
     "커리큘럼.md",
-    "도커(Docker) 시작하기 - 컨테이너 기초.md",
     "img/step01/해당 컨테이너에서 아이피 확인 결과.png",
     "img/step01/network 적용.png",
     "img/step01/prune 결과.png",
