@@ -460,7 +460,7 @@ volume 옵션 지정해서 index.html 넣어줌
         
         - `-d` 또는 `--driver [드라이버]`: 사용할 네트워크 드라이버를 지정합니다. (`bridge`, `host`, `overlay` 등, 기본값은 `bridge`)
             
-        - `--subnet [서브넷]`: 네트워크의 서브넷을 지정합니다. (예: `172.18.0.0/16`)
+        - `--subnet [서브넷]`: 네트워크의 서브넷을 지정합니다. (예: `172.18.0.0/24`)
             
         - `--gateway [게이트웨이]`: 네트워크의 게이트웨이 IP를 지정합니다.
             
@@ -471,7 +471,7 @@ volume 옵션 지정해서 index.html 넣어줌
         docker network create my-custom-network
         
         # 예시 2: 특정 서브넷과 게이트웨이를 가진 네트워크 생성
-        docker network create --subnet 172.19.0.0/16 --gateway 172.19.0.1 my-specific-network
+        docker network create --subnet 172.19.0.0/24 --gateway 172.19.0.1 my-specific-network
         ```
         
 - `docker network connect` (컨테이너를 네트워크에 연결)
